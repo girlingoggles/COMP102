@@ -1,0 +1,18 @@
+/* Reflection.txt for COMP102 - 2019T1, Assignment 2
+ * Name:
+ * Username:
+ * ID:
+ */
+
+Questions for Reflection: 
+=========================
+
+1. What is one thing that you did in this assignment that is similar to the
+previous assignment? Was it easier this time? How did you approach doing it?
+
+2. Why did the dance method have to have a parameter (the CartoonCharacter face
+parameter)?
+
+3. When using several "if" statements, you can use a sequence of separate "if"
+statements or you can combine them into a longer "if... else if .... else if ...."
+statement. What's the difference? Is one better than the other? 
